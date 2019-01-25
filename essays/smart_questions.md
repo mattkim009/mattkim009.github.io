@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Smart Questions test
+title: Smart Questions
 date: 2019-01-23
 labels:
   - [Insert label]
@@ -11,4 +11,18 @@ labels:
 Test
 
 ## Test
+
+## Context matters
+  This plagues ...  Often, I find people's questions lacking context leading to inadequate or unrelated answers.
+  
+  Narrows the scope of the answer saving time and effort.
+  
+
+# RANDOM THOUGHTS BELOW
+
+When asking questions we always look for insightful answers
+
+we should also ask insightful questions.  Ones that inform the reader a
+
+Consider the reader's standpoint and be cognizant of the readers needs
 
