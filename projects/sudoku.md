@@ -13,7 +13,7 @@ summary: I developed a recursive algorithm to solve any hexadecimal sudoku puzzl
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/sudoku_hard.png">
-  <img class="ui image" src="../images/sudoku_hard_solution.jpg">
+  <img class="ui image" src="../images/sudoku_hard_solution.png">
 </div>
 
 Hexadecimal sudoku is a 16 x 16 sudoku puzzle with values that range from 0,...9, A,...,F.  This is the
