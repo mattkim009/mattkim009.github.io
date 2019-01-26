@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/sudoku_profile.jpg
 title: Hexadecimal Sudoku Solver
 permalink: projects/sudoku
 date: 2018-03-16
@@ -12,7 +12,7 @@ summary: I developed hexadecimal sudoku solver using a recursive algorithm.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/sudoku_hard.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
