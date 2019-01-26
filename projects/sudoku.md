@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Hexadecimal Sudoku Solver
-permalink: projects/micromouse
+permalink: projects/sudoku
 date: 2018-03-16
 labels:
   - Java
