@@ -13,7 +13,7 @@ summary: I developed hexadecimal sudoku solver using a recursive algorithm.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/sudoku_hard.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/sudoku_hard_solution.jpg">
 </div>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze. ...
@@ -54,7 +54,7 @@ Micromouse is an event where small robot “mice” solve a 16 x 16 maze. ...
   }
 ```
 
-You can learn more about the assignment [here](http://courses.ics.hawaii.edu/ics211s18-1/morea/110.recursion/experience-H08.html) and for my code you van refer to my [repository](https://github.com/mattkim009/Hexadecimal-Sudoku)
+You can learn more about the assignment [here](http://courses.ics.hawaii.edu/ics211s18-1/morea/110.recursion/experience-H08.html) and view my code [here](https://github.com/mattkim009/Hexadecimal-Sudoku)
 
 
 
