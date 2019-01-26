@@ -14,25 +14,47 @@ summary: I developed hexadecimal sudoku solver using a recursive algorithm.
 <div class="ui small rounded images">
   <img class="ui image" src="../images/sudoku_hard.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze. 
+Micromouse is an event where small robot “mice” solve a 16 x 16 maze. ...
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+```java
+  public static int[][] recursiveSolver(int[][] sudoku, ArrayList<Integer> legalVals, 
+      int row, int column) {
+    numOfRecursionCalls++;    
+    if (legalVals == null) {
+      if (column == 15) {
+        if (row == 15) {
+          return sudoku;
+        } else {
+          return recursiveSolver(sudoku, legalValues(sudoku, row + 1, 0), row + 1, 0);
+        }
+      } else {
+        return recursiveSolver(sudoku, legalValues(sudoku, row, column + 1), row, column + 1);
+      }
+    } else {
+      for (int i = 0; i < legalVals.size(); i++) {
+        numOfIterations++;
+        sudoku[row][column] = legalVals.get(i);
+        if (column == 15) {
+          if (row == 15) {
+            return sudoku;
+          }
+          recursiveSolver(sudoku, legalValues(sudoku, row + 1, 0), row + 1, 0);
+        } else {
+          recursiveSolver(sudoku, legalValues(sudoku, row, column + 1), row, column + 1);
+        }
+        if (checkSudoku(sudoku, true) && noEmpty(sudoku)) {
+          return sudoku;
+        }
+      } 
+      sudoku[row][column] = -1;
+      return sudoku;
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+  }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more about the assignment [here](http://courses.ics.hawaii.edu/ics211s18-1/morea/110.recursion/experience-H08.html) and for my code you van refer to my [repository](https://github.com/mattkim009/Hexadecimal-Sudoku)
 
 
 
