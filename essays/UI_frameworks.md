@@ -10,7 +10,7 @@ labels:
   - [CSS]
 
 ---
-A UI framework (User Interface framework) is a software framework based in HTML that provides CSS packages and/or Javascript functions to facilitate the development of the layout of the pages (e.g. typography).  The provided packages and functions greatly simplify the process of creating web pages by lightening the work load for one doesn’t have to code every detail of the web page.  For example, I coded the 
+A UI framework (User Interface framework) is a software framework based in HTML that provides CSS packages and/or Javascript functions to facilitate the development of the layout of the pages (e.g. typography).  The provided packages and functions greatly simplify the process of creating web pages by lightening the work load for one doesn’t have to code every detail of the web page.  For example, when I coded the web page on the left below in raw HTML and CSS the CSS file ended up being 20-30 lines long.  This is much longer than the approximately 5 lines I coded in the CSS file to create the web page on the bottom right where I used Semantic UI.  
  
 <div class="ui medium centered rounded images">
   <img class="ui image" src="https://ics314f13.files.wordpress.com/2013/08/browserhistory3.png">
