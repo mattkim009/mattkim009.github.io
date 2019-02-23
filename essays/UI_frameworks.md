@@ -5,10 +5,12 @@ published: true
 title: UI Frameworks
 date: 2019-02-21
 labels:
-  - [Insert label]
+  - [Semantic UI]
+  - [HTML]
+  - [CSS]
+
 ---
 
-Test
 
 ## Test
 
