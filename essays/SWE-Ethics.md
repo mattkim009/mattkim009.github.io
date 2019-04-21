@@ -10,7 +10,6 @@ labels:
   - [CSS]
 
 ---
-  AW
   
 <div class="ui medium centered rounded images">
   <img class="ui image" src="https://www.gstatic.com/earth/social/00_generic_facebook-001.jpg">
