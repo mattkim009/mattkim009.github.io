@@ -13,8 +13,7 @@ labels:
   AW
   
 <div class="ui medium centered rounded images">
-  <img class="ui image" src="https://ics314f13.files.wordpress.com/2013/08/browserhistory3.png">
-  <img class="ui image" src="http://courses.ics.hawaii.edu/ics314s19/morea/ui-frameworks/experience-browser-history-semantic.png">
+  <img class="ui image" src="https://www.gstatic.com/earth/social/00_generic_facebook-001.jpg">
 </div>
 
 ## Relevancy of Ethics
