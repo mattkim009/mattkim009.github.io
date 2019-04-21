@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: The Power of Software
-date: 2019-02-21
+date: 2019-04-18
 labels:
   - [Semantic UI]
   - [HTML]
