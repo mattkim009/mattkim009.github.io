@@ -14,6 +14,9 @@ labels:
   <img class="ui image" src="https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG">
 </div>
 
+![Image of Yaktocat](https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG)
+
+
 ## Relevancy of Ethics
 
 Our work as programmers have a large impact on the world and it's contributions are only growing.  We have a responsibility to ensure that this impact is not only harmless but beneficial.  However, as flawed beings, we are easily misled and need to be reminded of what's right and wrong.  Codes of ethics like the <a href="https://www.acm.org/code-of-ethics">ACM Code of Ethics</a> and <a href="https://www.computer.org/education/code-of-ethics">Professional Conduct and the IEEE Code of Ethics</a> are important reminders of what's right and wrong and keep us on a straight path.  
