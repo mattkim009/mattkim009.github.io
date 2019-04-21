@@ -9,10 +9,6 @@ labels:
   - [Software Engineering]
 
 ---
-  
-<div class="ui medium centered rounded images x-large">
-  <img class="ui image" src="https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG">
-</div>
 
 ![Image of Yaktocat](https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG)
 
