@@ -11,7 +11,7 @@ labels:
 ---
   
 <div class="ui medium centered rounded images">
-  <img class="ui image" src="https://www.gstatic.com/earth/social/00_generic_facebook-001.jpg">
+  <img class="ui image" src="https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG">
 </div>
 
 ## Relevancy of Ethics
