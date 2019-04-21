@@ -10,7 +10,7 @@ labels:
 
 ---
   
-<div class="ui medium centered rounded images">
+<div class="ui medium centered rounded images large">
   <img class="ui image" src="https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG" style="max-width: 100%;">
 </div>
 
