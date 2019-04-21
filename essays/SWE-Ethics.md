@@ -11,7 +11,7 @@ labels:
 ---
   
 <div class="ui medium centered rounded images">
-  <img class="ui image" src="https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG">
+  <img class="ui image" src="https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG" style="max-width: 100%;">
 </div>
 
 ## Relevancy of Ethics
