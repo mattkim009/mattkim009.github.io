@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Ethics of Autonomous Cars
+title: The Power of Software
 date: 2019-02-21
 labels:
   - [Semantic UI]
