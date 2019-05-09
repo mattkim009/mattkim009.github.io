@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/teleskope_landing.jpg
-title: Micromouse
+title: Teleskope
 permalink: projects/teleskope
 date: 2019-04-01
 labels:
