@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Coding Standards
 date: 2019-02-07
 labels:
