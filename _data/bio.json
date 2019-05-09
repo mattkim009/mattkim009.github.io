@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Software engineering",
+      "name": "Software development",
       "keywords": [
       ]
     },
@@ -47,12 +47,14 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "10",
       "keywords": [
         "C",
-        "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Semantic UI",
+        "HTML",
+        "CSS",
       ]
     },
     {
@@ -60,7 +62,8 @@
       "level": "",
       "keywords": [
         "Windows 10",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Intellij",
       ]
     }
   ],
@@ -73,6 +76,9 @@
       "endDate": "",
       "gpa": "",
       "courses": [
+        "ICS 311",
+        "ICS 314",
+        "ICS 212",
       ]
     }
   ],
