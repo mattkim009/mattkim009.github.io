@@ -17,11 +17,8 @@ labels:
 summary: My team developed a web application that connects students to companies for job opportunities.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+<div class="ui medium centered rounded images">
+  <img class="ui image" src="../images/Landing_2019-05-08.png">
 </div>
 
 Micromouse is an event where smal
