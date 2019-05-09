@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/teleskope_landing.jpg
+image: images/Landing_2019-05-08.jpg
 title: Teleskope
 permalink: projects/teleskope
 date: 2019-04-01
