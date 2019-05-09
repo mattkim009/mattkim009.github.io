@@ -30,18 +30,7 @@ The bulk of my work was on the front-end where I helped create the landing page,
   <img class="ui image center" src="../images/Edit-Profile_2019-05-08.png">
 </div>
 
-Behind the scenes I made sure the student registration and company registration created the profiles and companies properly by modifying the functions that created the student and company.  I learned the most about the back-end when creating the edit profile page.  When
+Behind the scenes I made sure that the student registration and company registration properly created the user profiles and companies, the properties of the user data were properly checked before being accessed, and user profile data was properly changed after successful editing.
 
-<!---
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
---->
+## Looking Forward
+Despite the frustration and difficulties I immensely enjoyed spending hours on my first software development project.  There's still a lot for me to learn and improve so I plan to continue developing this project during the summer.
