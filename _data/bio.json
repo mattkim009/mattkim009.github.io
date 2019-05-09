@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Software development",
+      "name": "Software Development",
       "keywords": [
       ]
     },
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Artificial intelligence",
+      "name": "Algorithms",
       "keywords": [
       ]
     }
@@ -47,7 +47,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "10",
+      "level": "",
       "keywords": [
         "C",
         "Java",
@@ -84,42 +84,29 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "SKAI Ventures",
+      "position": "Accounts Payable Clerk",
+      "website": "https://skaiventures.com/",
+      "startDate": "2016-04",
+      "endDate": "2017-04",
+      "summary": "Helped manage financial transactions, financial statements, and 1099's",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Experienced in Quickbooks Premier Contractor Edition, Netsuite, and IQMS",
+        "Processed Vendor Transactions: Checks, Bills, Invoices, Deposits, Expense Reports, &amp; Purchase Orders",
+        "Organized Accounting Reports: Balance Sheets, Income Statements, etc.",
+        "Prepared Annual 1099’s",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kuakini Medical Center",
+      "website": "https://www.kuakini.org/wps/portal/",
+      "position": "El",
+      "startDate": "2012",
+      "endDate": "2011",
+      "summary": "Assisted elderlies with their daily activities",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ]
