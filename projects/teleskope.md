@@ -21,8 +21,10 @@ summary: My team developed a web application that connects students to companies
   <img class="ui image" src="../images/Landing_2019-05-08.png">
 </div>
 
-Micromouse is an event where smal
+# What is Teleskope?
+Teleskope is an app that connects students to companies for job opportunities.  
 
+<!---
 ```js
 byte ADCRead(byte ch)
 {
@@ -34,3 +36,4 @@ byte ADCRead(byte ch)
     return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
 }
 ```
+--->
