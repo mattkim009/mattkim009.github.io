@@ -2,14 +2,14 @@
 layout: project
 type: project
 published: true
-title: COVID Kokua: A Chatbot for HACC 2020
+title: COVID Kokua - A Chatbot for HACC 2020
 permalink: projects/COVID-Kokua
 date: 2020-12-10
 labels:
   - [Software Engineering]
-  - Dialogflow
-  - Chatbot
-  - COVID-19
+  - [Dialogflow]
+  - [Chatbot]
+  - [COVID-19]
 summary: My team developed a COVID-19 chatbot app for the 2020 Hawaii Annual Code Challenge
 ---
 
