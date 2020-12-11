@@ -17,7 +17,9 @@ Aloha!  From the end of October to the middle of November I participated in the 
 
 <div>
   <iframe width="420" height="315" src="https://www.youtube.com/watch?v=RyMBtO5gTgE"></iframe>
+    <img class="ui image" src="../images/micromouse-robot.png">
 </div>
+  <img class="ui image" src="../images/micromouse-robot.png">
 
 Of the six challenges presented, my team decided to tackle the COVID-19 Chatbot challenge provided by NIC Hawaii.  NIC Hawaii aims to bring government services to the people so for this challenge they wanted a chatbot that can provide the latest crucial information to the citizens and visitors of Hawaii.  To create this my team utilized Google’s Dialogflow API as the foundation of the application.  
 
