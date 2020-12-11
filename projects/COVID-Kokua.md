@@ -10,6 +10,7 @@ labels:
   - Dialogflow
   - Chatbot
   - COVID-19
+summary: My team developed a COVID-19 chatbot app for the 2020 Hawaii Annual Code Challenge
 ---
 
 ![Image of Yaktocat](https://www.knopers.net/webspace/tweakers/marketing-cartoon.PNG)
